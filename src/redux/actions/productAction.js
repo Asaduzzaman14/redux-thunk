@@ -22,7 +22,6 @@ export const postProduct = (productdata) => {
   }
 }
 
-
 export const addProduct = (product) => {
   return {
     type: ADD_PRODUCT,

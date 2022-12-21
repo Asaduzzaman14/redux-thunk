@@ -36,6 +36,7 @@ const productReducer = (state = initialState, action) => {
           (product) => product._id !== action.payload
         ),
       };
+
     case ADD_TO_CART:
       if (selectedProduct) {
         const newCart = state.cart.filter(

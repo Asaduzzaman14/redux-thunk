@@ -5,6 +5,7 @@ export const ADD_PRODUCT = "ADD_PRODUCT";
 export const REMOVE_PRODUCT = "REMOVE_PRODUCT";
 export const LODE_PRODUCT = "LODE_PRODUCT";
 export const POST_PRODUCT = "POST_PRODUCT";
+// export const REMOVE_PRODUCT = "REMOVE_PRODUCT";
 
 
 // filter action
